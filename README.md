@@ -26,8 +26,11 @@
 内存要求：≥64M
 
 > chmod +x server_linux_386
+
 > ./start.sh
+
 > vi /etc/rc.local
+
 > 添加  /root/start.sh
 
 
