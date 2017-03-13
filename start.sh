@@ -1,0 +1,1 @@
+./server_linux_386 -t 127.0.0.1:3389 -l :4000 -mode fast2 --crypt aes-128 > kcptun.log 2>&1 &
